@@ -10,18 +10,14 @@ class Solution(object):
         
         res = []
         
-        def backtrack(index, path):
-            if len(path) == len(digits):
-                res.append("".join(path))
+        def backtrack(index, current_string):
+            if len(current_string) == len(digits):
+                res.append(current_string)
                 return
                 
-            possible_letters = phone_map[digits[index]]
-            
-            for letter in possible_letters:
-                path.append(letter)
-                backtrack(index + 1, path)
-                path.pop()
+            letters = phone_map[digits[index]]
+            for letter in letters:
+                backtrack(index + 1, current_string + letter)
                 
-        backtrack(0, [])
+        backtrack(0, "")
         return res
-        
