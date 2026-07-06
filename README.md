@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Sliding Window
 |  |
