@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0046-permutations) |
 ## Linked List
 |  |
 | ------- |
