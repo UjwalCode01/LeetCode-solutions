@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 ## Array
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 ## Tree
 |  |
 | ------- |
