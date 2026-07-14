@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
