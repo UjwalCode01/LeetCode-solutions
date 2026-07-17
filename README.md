@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Trie
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
@@ -233,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
