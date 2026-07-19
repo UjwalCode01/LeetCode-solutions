@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0055-jump-game) |
 ## Tree
 |  |
 | ------- |
