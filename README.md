@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
