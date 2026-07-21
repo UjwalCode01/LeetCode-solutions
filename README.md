@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
