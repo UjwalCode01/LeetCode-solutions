@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
