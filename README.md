@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Array
 |  |
 | ------- |
