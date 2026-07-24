@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
