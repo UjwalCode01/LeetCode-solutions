@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
