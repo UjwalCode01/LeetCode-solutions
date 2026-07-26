@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Recursion
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Sliding Window
 |  |
 | ------- |
