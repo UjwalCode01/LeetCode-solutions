@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 ## Array
 |  |
 | ------- |
@@ -146,12 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 ## Math
 |  |
 | ------- |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Sliding Window
 |  |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -389,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
