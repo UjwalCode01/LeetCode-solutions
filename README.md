@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Recursion
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String Matching
 |  |
 | ------- |
