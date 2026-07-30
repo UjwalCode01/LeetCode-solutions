@@ -474,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0133-clone-graph) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
