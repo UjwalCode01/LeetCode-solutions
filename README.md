@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 ## Array
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0174-dungeon-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 ## Trie
 |  |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0174-dungeon-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
