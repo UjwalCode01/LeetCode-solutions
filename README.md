@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0174-dungeon-game) |
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 ## Trie
 |  |
