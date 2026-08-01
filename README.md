@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 ## Recursion
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
