@@ -1,19 +1,17 @@
 from collections import Counter
 
 class Solution(object):
-    def canConstruct(self, ransomNote, magazine):
+    def firstUniqChar(self, s):
         """
-        :type ransomNote: str
-        :type magazine: str
-        :rtype: bool
+        :type s: str
+        :rtype: int
         """
-        # Count frequency of each character in magazine and ransomNote
-        ransom_counts = Counter(ransomNote)
-        magazine_counts = Counter(magazine)
-
-        # Ensure magazine has enough of each letter needed for ransomNote
-        for char, count in ransom_counts.items():
-            if magazine_counts[char] < count:
-                return False
-
-        return True
+        # Count frequency of each character in the string
+        counts = Counter(s)
+        
+        # Find the first character with a count of 1 and return its index
+        for index, char in enumerate(s):
+            if counts[char] == 1:
+                return index
+                
+        return -1
