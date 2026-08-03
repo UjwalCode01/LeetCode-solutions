@@ -578,4 +578,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
