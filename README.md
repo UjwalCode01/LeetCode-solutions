@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
+| [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
 ## Array
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
 ## Trie
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0216-combination-sum-iii) |
+| [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
 ## Linked List
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
+| [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
 ## Simulation
 |  |
 | ------- |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
+| [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -597,4 +602,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0075-sort-colors) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
