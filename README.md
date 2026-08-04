@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0636-exclusive-time-of-functions) |
 ## Trie
 |  |
 | ------- |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0636-exclusive-time-of-functions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0636-exclusive-time-of-functions) |
 ## String Matching
 |  |
 | ------- |
