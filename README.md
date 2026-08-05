@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0622-design-circular-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
