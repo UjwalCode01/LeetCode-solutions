@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
+| [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
 ## Array
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
+| [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0622-design-circular-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 ## Tree
 |  |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
