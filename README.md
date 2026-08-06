@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0383-ransom-note) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Math
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0622-design-circular-queue) |
