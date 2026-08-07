@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
+| [1310-xor-queries-of-a-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0473-matchsticks-to-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
+| [1310-xor-queries-of-a-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [1310-xor-queries-of-a-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Queue
 |  |
 | ------- |
