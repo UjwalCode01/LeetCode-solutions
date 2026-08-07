@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
+| [0516-longest-palindromic-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
 ## Array
 |  |
