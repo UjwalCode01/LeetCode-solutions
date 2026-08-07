@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1310-xor-queries-of-a-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Queue
