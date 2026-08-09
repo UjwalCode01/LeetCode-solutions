@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0133-clone-graph) |
+| [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -573,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -626,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0622-design-circular-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0622-design-circular-queue) |
 ## Iterator
 |  |
