@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0436-find-right-interval) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0436-find-right-interval) |
 ## Divide and Conquer
 |  |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0436-find-right-interval) |
