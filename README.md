@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
@@ -623,10 +627,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
 ## Database
 |  |
 | ------- |
@@ -726,4 +732,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0220-contains-duplicate-iii) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
