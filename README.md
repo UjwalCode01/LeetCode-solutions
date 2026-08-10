@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0473-matchsticks-to-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0622-design-circular-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0622-design-circular-queue) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0624-maximum-distance-in-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 ## Tree
 |  |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
