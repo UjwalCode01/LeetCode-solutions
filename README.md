@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0326-power-of-three) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0326-power-of-three) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0636-exclusive-time-of-functions) |
