@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0218-the-skyline-problem) |
+| [0372-super-pow](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0372-super-pow) |
 ## Sorting
 |  |
 | ------- |
@@ -768,4 +770,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
