@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0638-shopping-offers) |
