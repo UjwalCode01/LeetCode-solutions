@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
+| [0419-battleships-in-a-board](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
+| [0419-battleships-in-a-board](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0221-maximal-square) |
+| [0419-battleships-in-a-board](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0419-battleships-in-a-board) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
