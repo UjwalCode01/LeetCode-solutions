@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0273-integer-to-english-words) |
+| [0292-nim-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0372-super-pow) |
@@ -817,4 +818,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
