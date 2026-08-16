@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0384-shuffle-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0419-battleships-in-a-board) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0372-super-pow) |
+| [0384-shuffle-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0384-shuffle-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0622-design-circular-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0622-design-circular-queue) |
 ## Iterator
@@ -840,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0292-nim-game) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
