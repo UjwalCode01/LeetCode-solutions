@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0383-ransom-note) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0216-combination-sum-iii) |
+| [0306-additive-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0491-non-decreasing-subsequences) |
