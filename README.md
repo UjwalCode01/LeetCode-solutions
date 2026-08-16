@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0307-range-sum-query-mutable) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0384-shuffle-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0384-shuffle-an-array) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0284-peeking-iterator) |
 ## Prefix Sum
 |  |
 | ------- |
