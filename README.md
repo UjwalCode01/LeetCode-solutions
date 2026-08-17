@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0384-shuffle-an-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0335-self-crossing) |
 | [0371-sum-of-two-integers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0372-super-pow) |
 | [0384-shuffle-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0384-shuffle-an-array) |
@@ -861,4 +863,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0274-h-index) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
