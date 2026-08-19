@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0492-construct-the-rectangle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0492-construct-the-rectangle) |
 <!---LeetCode Topics End-->
