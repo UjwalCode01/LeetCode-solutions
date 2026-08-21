@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0212-word-search-ii) |
 | [0402-remove-k-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
 ## Reservoir Sampling
 |  |
 | ------- |
