@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 ## Queue
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 ## Stack
 |  |
 | ------- |
