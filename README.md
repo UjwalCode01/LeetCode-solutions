@@ -207,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
