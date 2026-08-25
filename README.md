@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Math
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0190-reverse-bits) |
 | [0393-utf-8-validation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
