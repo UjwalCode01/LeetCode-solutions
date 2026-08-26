@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
+| [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
