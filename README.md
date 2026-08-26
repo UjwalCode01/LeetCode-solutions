@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 ## Knapsack Problem
 |  |
 | ------- |
