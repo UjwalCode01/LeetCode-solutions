@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,8 +262,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 ## Graph Theory
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 <!---LeetCode Topics End-->
