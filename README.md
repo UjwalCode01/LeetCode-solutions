@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
