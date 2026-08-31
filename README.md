@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0477-total-hamming-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
+| [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0593-valid-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0593-valid-square) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -326,12 +330,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 ## Rejection Sampling
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
