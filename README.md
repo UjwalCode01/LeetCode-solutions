@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
