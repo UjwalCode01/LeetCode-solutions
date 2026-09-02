@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0593-valid-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0598-range-addition-ii) |
+| [0670-maximum-swap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0670-maximum-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0670-maximum-swap) |
 ## Monotonic Stack
 |  |
 | ------- |
