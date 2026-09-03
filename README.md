@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0212-word-search-ii) |
+| [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0402-remove-k-digits) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0202-happy-number) |
+| [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Database
 |  |
