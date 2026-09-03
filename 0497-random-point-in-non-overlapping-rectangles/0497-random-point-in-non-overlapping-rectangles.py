@@ -11,23 +11,29 @@ class Solution(object):
         self.prefix_sums = []
         total_points = 0
         
-        for x1, y1, x2, y2 in rects:
-            # Number of integer points in the current rectangle
-            pts = (x2 - x1 + 1) * (y2 - y1 + 1)
-            total_points += pts
+        for a, b, x, y in rects:
+            # Number of integer points in the rectangle = (width + 1) * (height + 1)
+            points = (x - a + 1) * (y - b + 1)
+            total_points += points
             self.prefix_sums.append(total_points)
+            
+        self.total_points = total_points
 
     def pick(self):
         """
         :rtype: List[int]
         """
-        # Pick a random point index in [1, total_points]
-        target = random.randint(1, self.prefix_sums[-1])
+        # Pick a random point index from 1 to total_points
+        choice = random.randint(1, self.total_points)
         
-        # Binary search to find which rectangle contains this target index
-        idx = bisect.bisect_left(self.prefix_sums, target)
+        # Find which rectangle this point falls into using binary search
+        rect_index = bisect.bisect_left(self.prefix_sums, choice)
         
-        x1, y1, x2, y2 = self.rects[idx]
+        # Retrieve the chosen rectangle coordinates
+        a, b, x, y = self.rects[rect_index]
         
-        # Pick a uniform random point within the selected rectangle bounds
-        return [random.randint(x1, x2), random.randint(y1, y2)]
+        # Pick a random x and y coordinate within the rectangle
+        rx = random.randint(a, x)
+        ry = random.randint(b, y)
+        
+        return [rx, ry]
