@@ -1,5 +1,3 @@
-from collections import Counter
-
 class Solution(object):
     def getHint(self, secret, guess):
         """
@@ -8,18 +6,21 @@ class Solution(object):
         :rtype: str
         """
         bulls = 0
-        s_counts = Counter()
-        g_counts = Counter()
+        cows = 0
         
-        # First pass: count bulls and record non-matching digit frequencies
+        # Secret aur guess ke digits ke frequency ko track karne ke liye array (0-9)
+        secret_count = [0] * 10
+        guess_count = [0] * 10
+        
         for s, g in zip(secret, guess):
             if s == g:
                 bulls += 1
             else:
-                s_counts[s] += 1
-                g_counts[g] += 1
+                secret_count[int(s)] += 1
+                guess_count[int(g)] += 1
                 
-        # Second pass: calculate cows using minimum overlapping counts
-        cows = sum(min(s_counts[ch], g_counts[ch]) for ch in s_counts)
-        
+        # Cows ke liye minimum matches count karenge across both frequencies
+        for i in range(10):
+            cows += min(secret_count[i], guess_count[i])
+            
         return "{}A{}B".format(bulls, cows)
