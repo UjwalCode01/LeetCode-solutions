@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0393-utf-8-validation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0393-utf-8-validation) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Ordered Set
 |  |
@@ -396,5 +398,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->
