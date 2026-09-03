@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0212-word-search-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0212-word-search-ii) |
 | [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0394-decode-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
