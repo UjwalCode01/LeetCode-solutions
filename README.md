@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## String
 |  |
 | ------- |
