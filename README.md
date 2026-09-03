@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0672-bulb-switcher-ii) |
+| [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0687-longest-univalue-path) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 | [0686-repeated-string-match](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0686-repeated-string-match) |
 ## Backtracking
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0212-word-search-ii) |
+| [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 ## Matrix
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0645-set-mismatch) |
+| [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -379,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Design
+|  |
+| ------- |
+| [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->
