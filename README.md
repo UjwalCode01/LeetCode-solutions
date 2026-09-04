@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0481-magical-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
