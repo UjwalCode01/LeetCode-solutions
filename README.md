@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0212-word-search-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0212-word-search-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0394-decode-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0258-add-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0376-wiggle-subsequence) |
@@ -327,11 +330,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Geometry
@@ -460,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
