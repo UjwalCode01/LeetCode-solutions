@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0393-utf-8-validation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0393-utf-8-validation) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0258-add-digits) |
+| [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0390-elimination-game) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
