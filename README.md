@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0506-relative-ranks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0506-relative-ranks) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0645-set-mismatch) |
