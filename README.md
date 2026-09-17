@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0672-bulb-switcher-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0672-bulb-switcher-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -560,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0455-assign-cookies) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
