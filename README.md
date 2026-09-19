@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0394-decode-string) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0394-decode-string) |
