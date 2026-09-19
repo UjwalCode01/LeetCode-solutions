@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0338-counting-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [0393-utf-8-validation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
