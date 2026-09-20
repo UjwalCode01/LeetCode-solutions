@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0388-longest-absolute-file-path) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0318-maximum-product-of-word-lengths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0342-power-of-four) |
 | [0393-utf-8-validation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0393-utf-8-validation) |
