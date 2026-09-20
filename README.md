@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0258-add-digits) |
 | [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -598,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0324-wiggle-sort-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
