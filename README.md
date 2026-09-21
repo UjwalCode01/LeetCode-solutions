@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0367-valid-perfect-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0475-heaters) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Randomized
 |  |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
@@ -604,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0319-bulb-switcher) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
