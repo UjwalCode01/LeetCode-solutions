@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0672-bulb-switcher-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0672-bulb-switcher-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -620,4 +623,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
