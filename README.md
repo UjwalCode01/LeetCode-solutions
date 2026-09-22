@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0514-freedom-trail](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0514-freedom-trail) |
 | [0572-subtree-of-another-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0514-freedom-trail](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0514-freedom-trail) |
 | [0672-bulb-switcher-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0504-base-7) |
+| [0514-freedom-trail](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0514-freedom-trail) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0509-fibonacci-number) |
+| [0514-freedom-trail](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
