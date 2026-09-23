@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0458-poor-pigs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0458-poor-pigs) |
 | [0477-total-hamming-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0403-frog-jump) |
+| [0458-poor-pigs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
@@ -662,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
