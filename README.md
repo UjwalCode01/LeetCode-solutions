@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0514-freedom-trail](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0514-freedom-trail) |
 | [0563-binary-tree-tilt](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0565-array-nesting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0518-coin-change-ii) |
+| [0565-array-nesting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
