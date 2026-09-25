@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0514-freedom-trail](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0514-freedom-trail) |
 | [0672-bulb-switcher-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0672-bulb-switcher-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0393-utf-8-validation) |
 | [0403-frog-jump](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0457-circular-array-loop) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0506-relative-ranks) |
 ## Monotonic Queue
 |  |
