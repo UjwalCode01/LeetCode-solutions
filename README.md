@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0413-arithmetic-slices](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0457-circular-array-loop) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Heap (Priority Queue)
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0413-arithmetic-slices) |
 | [0458-poor-pigs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
