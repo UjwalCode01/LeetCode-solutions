@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0481-magical-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0458-poor-pigs) |
 | [0477-total-hamming-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
