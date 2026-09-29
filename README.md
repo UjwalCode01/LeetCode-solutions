@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0477-total-hamming-distance) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0458-poor-pigs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
