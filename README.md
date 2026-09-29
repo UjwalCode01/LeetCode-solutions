@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0457-circular-array-loop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0460-lfu-cache) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 ## Bitmask
 |  |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0460-lfu-cache) |
 ## Topological Sort
 |  |
 | ------- |
