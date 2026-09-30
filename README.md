@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0018-4sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0290-word-pattern) |
