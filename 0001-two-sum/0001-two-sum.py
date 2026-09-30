@@ -1,8 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        seen = {}
-        for i, num in enumerate(nums):
-            remaining = target - num
-            if remaining in seen:
-                return [seen[remaining], i]
-            seen[num] = i
+        prevMap = {}  # val : index
+
+        for i, n in enumerate(nums):
+            diff = target - n
+            if diff in prevMap:
+                return [prevMap[diff], i]
+            prevMap[n] = i
