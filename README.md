@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0385-mini-parser) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -685,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0355-design-twitter) |
