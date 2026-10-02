@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
