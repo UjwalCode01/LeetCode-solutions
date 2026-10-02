@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0460-lfu-cache) |
 ## Recursion
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0460-lfu-cache) |
 ## Topological Sort
