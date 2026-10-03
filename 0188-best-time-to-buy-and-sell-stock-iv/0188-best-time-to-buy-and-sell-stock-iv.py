@@ -7,20 +7,21 @@ class Solution(object):
         """
         if not prices or k == 0:
             return 0
-
+        
         n = len(prices)
-
-        # Optimization: If k >= n/2, treat it as unlimited transactions
+        
+        # If k is large enough, equivalent to unlimited transactions
         if k >= n // 2:
-            return sum(max(0, prices[i] - prices[i - 1]) for i in range(1, n))
-
-        # Array initialization
+            return sum(max(prices[i+1] - prices[i], 0) for i in range(n - 1))
+        
+        # buy[i] stores max profit after i-th buy
+        # sell[i] stores max profit after i-th sell
         buy = [-float('inf')] * (k + 1)
         sell = [0] * (k + 1)
-
-        for p in prices:
-            for j in range(1, k + 1):
-                buy[j] = max(buy[j], sell[j - 1] - p)
-                sell[j] = max(sell[j], buy[j] + p)
-
+        
+        for price in prices:
+            for i in range(1, k + 1):
+                buy[i] = max(buy[i], sell[i - 1] - price)
+                sell[i] = max(sell[i], buy[i] + price)
+                
         return sell[k]
