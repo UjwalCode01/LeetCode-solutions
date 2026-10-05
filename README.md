@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0483-smallest-good-base) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Divide and Conquer
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
+| [0483-smallest-good-base](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
