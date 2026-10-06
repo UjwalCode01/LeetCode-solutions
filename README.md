@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0466-count-the-repetitions) |
+| [0468-validate-ip-address](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0482-license-key-formatting) |
