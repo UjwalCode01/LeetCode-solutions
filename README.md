@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0483-smallest-good-base](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0483-smallest-good-base) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0382-linked-list-random-node) |
+| [0470-implement-rand10-using-rand7](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0519-random-flip-matrix) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rejection Sampling
 |  |
 | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 ## Zero-Sum Game
 |  |
@@ -844,4 +847,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0493-reverse-pairs) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
