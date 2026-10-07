@@ -1,11 +1,10 @@
-import fractions
+import math
 
-class Solution(object):
-    def canMeasureWater(self, x, y, target):
+class Solution:
+    def canMeasureWater(self, x: int, y: int, target: int) -> bool:
+        # Cannot measure more water than total combined capacity
         if target > x + y:
             return False
-            
-        if target == 0:
-            return True
-            
-        return target % fractions.gcd(x, y) == 0
+        
+        # Target must be a multiple of gcd(x, y)
+        return target % math.gcd(x, y) == 0
