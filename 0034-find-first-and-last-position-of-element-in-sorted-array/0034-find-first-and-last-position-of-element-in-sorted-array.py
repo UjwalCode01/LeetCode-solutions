@@ -1,37 +1,31 @@
-class Solution(object):
-    def searchRange(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        def binary_search(find_first):
+class Solution:
+    def searchRange(self, nums: list[int], target: int) -> list[int]:
+        def findFirst(nums, target):
             left, right = 0, len(nums) - 1
-            bound_idx = -1
-            
+            first = -1
             while left <= right:
                 mid = (left + right) // 2
-                
-                if nums[mid] < target:
+                if nums[mid] == target:
+                    first = mid
+                    right = mid - 1  # Left side me aur pehla element dhundho
+                elif nums[mid] < target:
                     left = mid + 1
-                elif nums[mid] > target:
-                    right = mid - 1
                 else:
-                    # Found target; record index
-                    bound_idx = mid
-                    if find_first:
-                        # Keep looking left for the starting boundary
-                        right = mid - 1
-                    else:
-                        # Keep looking right for the ending boundary
-                        left = mid + 1
-            return bound_idx
+                    right = mid - 1
+            return first
 
-        # Find first and last occurrences
-        first = binary_search(find_first=True)
-        # If the first position is -1, the element doesn't exist at all
-        if first == -1:
-            return [-1, -1]
-            
-        last = binary_search(find_first=False)
-        return [first, last]
+        def findLast(nums, target):
+            left, right = 0, len(nums) - 1
+            last = -1
+            while left <= right:
+                mid = (left + right) // 2
+                if nums[mid] == target:
+                    last = mid
+                    left = mid + 1   # Right side me aur aakhiri element dhundho
+                elif nums[mid] < target:
+                    left = mid + 1
+                else:
+                    right = mid - 1
+            return last
+
+        return [findFirst(nums, target), findLast(nums, target)]
