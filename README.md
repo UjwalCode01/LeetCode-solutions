@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0539-minimum-time-difference) |
 | [0565-array-nesting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0575-distribute-candies) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0593-valid-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0598-range-addition-ii) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0645-set-mismatch) |
