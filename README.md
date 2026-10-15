@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0640-solve-the-equation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0640-solve-the-equation) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0686-repeated-string-match) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0593-valid-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0598-range-addition-ii) |
+| [0640-solve-the-equation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0672-bulb-switcher-ii) |
 ## Dynamic Programming
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0640-solve-the-equation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0640-solve-the-equation) |
 ## Stack
 |  |
 | ------- |
@@ -895,4 +898,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
