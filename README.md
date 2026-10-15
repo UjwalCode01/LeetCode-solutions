@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0605-can-place-flowers) |
+| [0641-design-circular-deque](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0641-design-circular-deque) |
 ## Sliding Window
 |  |
 | ------- |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0460-lfu-cache) |
+| [0641-design-circular-deque](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0641-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0460-lfu-cache) |
+| [0641-design-circular-deque](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 ## Bitmask
 |  |
