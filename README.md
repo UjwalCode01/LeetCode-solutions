@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
 | [0784-letter-case-permutation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
 ## Backtracking
 |  |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
