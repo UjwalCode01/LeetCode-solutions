@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
+| [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
 ## Backtracking
 |  |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 | [0697-degree-of-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0697-degree-of-an-array) |
+| [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
