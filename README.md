@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0506-relative-ranks) |
+| [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -924,4 +928,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
