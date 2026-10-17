@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0764-largest-plus-sign](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0764-largest-plus-sign) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Divide and Conquer
 |  |
