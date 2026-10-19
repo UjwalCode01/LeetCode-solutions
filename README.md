@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0764-largest-plus-sign](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0764-largest-plus-sign) |
 | [0789-escape-the-ghosts](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0789-escape-the-ghosts) |
+| [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
+| [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Divide and Conquer
 |  |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0764-largest-plus-sign](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0764-largest-plus-sign) |
 | [0790-domino-and-tromino-tiling](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0790-domino-and-tromino-tiling) |
+| [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -580,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -693,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
