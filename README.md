@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0784-letter-case-permutation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
