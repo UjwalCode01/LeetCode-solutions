@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0794-valid-tic-tac-toe-state](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0794-valid-tic-tac-toe-state) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
