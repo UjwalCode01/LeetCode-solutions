@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0789-escape-the-ghosts](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0794-valid-tic-tac-toe-state](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0794-valid-tic-tac-toe-state) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0794-valid-tic-tac-toe-state](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0794-valid-tic-tac-toe-state) |
 ## Queue
 |  |
 | ------- |
