@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Divide and Conquer
 |  |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0780-reaching-points](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0780-reaching-points) |
 | [0789-escape-the-ghosts](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0789-escape-the-ghosts) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 ## Dynamic Programming
 |  |
 | ------- |
