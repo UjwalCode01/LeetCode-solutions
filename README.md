@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0764-largest-plus-sign](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0764-largest-plus-sign) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 ## Randomized
 |  |
 | ------- |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Longest Increasing Subsequence
 |  |
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 ## Bitmask
 |  |
