@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0342-power-of-four) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0313-super-ugly-number) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
@@ -925,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0518-coin-change-ii) |
 ## Quickselect
