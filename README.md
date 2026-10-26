@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0367-valid-perfect-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0287-find-the-duplicate-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0342-power-of-four) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0466-count-the-repetitions) |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0457-circular-array-loop) |
 ## Linked List
 |  |
@@ -977,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## Eulerian Circuit
 |  |
