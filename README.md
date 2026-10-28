@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
+| [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
+| [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0764-largest-plus-sign](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0764-largest-plus-sign) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0789-escape-the-ghosts](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0789-escape-the-ghosts) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0794-valid-tic-tac-toe-state](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0794-valid-tic-tac-toe-state) |
 ## Queue
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0640-solve-the-equation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0640-solve-the-equation) |
+| [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 ## Stack
 |  |
 | ------- |
