@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0764-largest-plus-sign](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0764-largest-plus-sign) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0789-escape-the-ghosts](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Greedy
 |  |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0767-reorganize-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Bit Manipulation
 |  |
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0767-reorganize-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
