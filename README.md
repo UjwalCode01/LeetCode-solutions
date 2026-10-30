@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0539-minimum-time-difference) |
+| [0546-remove-boxes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0546-remove-boxes) |
 | [0565-array-nesting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0575-distribute-candies) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0518-coin-change-ii) |
+| [0546-remove-boxes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0546-remove-boxes) |
 | [0576-out-of-boundary-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0546-remove-boxes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Geometry
 |  |
