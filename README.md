@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0539-minimum-time-difference) |
+| [0551-student-attendance-record-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0564-find-the-closest-palindrome](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
