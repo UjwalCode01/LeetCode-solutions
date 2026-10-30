@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
