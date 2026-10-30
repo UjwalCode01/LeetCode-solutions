@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0539-minimum-time-difference) |
 | [0546-remove-boxes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0546-remove-boxes) |
+| [0553-optimal-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0553-optimal-division) |
 | [0565-array-nesting](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0575-distribute-candies) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0593-valid-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0598-range-addition-ii) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
