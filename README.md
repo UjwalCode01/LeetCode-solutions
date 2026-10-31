@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0741-cherry-pickup](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0741-cherry-pickup) |
 | [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0794-valid-tic-tac-toe-state](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0794-valid-tic-tac-toe-state) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0730-count-different-palindromic-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0730-count-different-palindromic-subsequences) |
+| [0741-cherry-pickup](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0764-largest-plus-sign) |
 | [0790-domino-and-tromino-tiling](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0790-domino-and-tromino-tiling) |
