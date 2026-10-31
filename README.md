@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
+| [0756-pyramid-transition-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0767-reorganize-string) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
 ## Trie
 |  |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0697-degree-of-an-array) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
+| [0756-pyramid-transition-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
