@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Greedy
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Bit Manipulation
