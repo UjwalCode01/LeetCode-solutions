@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0655-print-binary-tree) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0640-solve-the-equation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0649-dota2-senate) |
 | [0676-implement-magic-dictionary](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0676-implement-magic-dictionary) |
