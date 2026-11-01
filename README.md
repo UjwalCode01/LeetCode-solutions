@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0709-to-lower-case) |
 | [0730-count-different-palindromic-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0756-pyramid-transition-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0756-pyramid-transition-matrix) |
