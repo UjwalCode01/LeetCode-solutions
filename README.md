@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
+| [0797-all-paths-from-source-to-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Trie
 |  |
 | ------- |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
+| [0797-all-paths-from-source-to-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1094,4 +1098,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
