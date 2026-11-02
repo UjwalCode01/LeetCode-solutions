@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0764-largest-plus-sign) |
 | [0790-domino-and-tromino-tiling](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0799-champagne-tower](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0799-champagne-tower) |
 ## Knapsack Problem
 |  |
 | ------- |
