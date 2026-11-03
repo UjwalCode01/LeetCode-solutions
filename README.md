@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
+| [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -932,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1036,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0319-bulb-switcher) |
+| [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -1138,4 +1144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
