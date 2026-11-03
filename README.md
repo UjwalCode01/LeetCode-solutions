@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0789-escape-the-ghosts) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0799-champagne-tower) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
 ## Rolling Hash
 |  |
 | ------- |
