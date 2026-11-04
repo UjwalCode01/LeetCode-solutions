@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
+| [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0796-rotate-string) |
+| [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0767-reorganize-string) |
+| [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
 ## Database
 |  |
 | ------- |
