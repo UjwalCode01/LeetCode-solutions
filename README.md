@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
+| [0813-largest-sum-of-averages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0813-largest-sum-of-averages) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
+| [0813-largest-sum-of-averages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0813-largest-sum-of-averages) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0731-my-calendar-ii) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0813-largest-sum-of-averages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0813-largest-sum-of-averages) |
 ## Ordered Set
 |  |
 | ------- |
