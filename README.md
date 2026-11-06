@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
 | [0813-largest-sum-of-averages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0817-linked-list-components) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0817-linked-list-components) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0817-linked-list-components) |
 ## Recursion
 |  |
 | ------- |
