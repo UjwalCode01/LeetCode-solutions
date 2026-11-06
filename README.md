@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0815-bus-routes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0815-bus-routes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
 | [0813-largest-sum-of-averages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0813-largest-sum-of-averages) |
+| [0815-bus-routes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0815-bus-routes) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
+| [0815-bus-routes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0815-bus-routes) |
 ## Reservoir Sampling
 |  |
 | ------- |
