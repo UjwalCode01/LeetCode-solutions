@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0821-shortest-distance-to-a-character](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
