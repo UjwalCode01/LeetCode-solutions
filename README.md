@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
 | [0816-ambiguous-coordinates](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
 ## Backtracking
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
 ## Matrix
 |  |
 | ------- |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
 ## Reservoir Sampling
 |  |
 | ------- |
