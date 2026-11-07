@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0813-largest-sum-of-averages) |
+| [0818-race-car](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0818-race-car) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1170,4 +1171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-ambiguous-coordinates](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0816-ambiguous-coordinates) |
+## Heuristic Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0818-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0818-race-car) |
 <!---LeetCode Topics End-->
