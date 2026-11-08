@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0822-card-flipping-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0822-card-flipping-game) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
+| [0822-card-flipping-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0822-card-flipping-game) |
 ## Reservoir Sampling
 |  |
 | ------- |
