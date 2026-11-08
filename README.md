@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0825-friends-of-appropriate-ages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Divide and Conquer
 |  |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
