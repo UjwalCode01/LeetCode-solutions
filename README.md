@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0822-card-flipping-game) |
+| [0823-binary-trees-with-factors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0813-largest-sum-of-averages) |
 | [0818-race-car](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0818-race-car) |
+| [0823-binary-trees-with-factors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0823-binary-trees-with-factors) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0820-short-encoding-of-words) |
 | [0822-card-flipping-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0822-card-flipping-game) |
+| [0823-binary-trees-with-factors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0823-binary-trees-with-factors) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0791-custom-sort-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
