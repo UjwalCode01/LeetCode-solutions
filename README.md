@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
 | [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
+| [0829-consecutive-numbers-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0829-consecutive-numbers-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1206,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-ambiguous-coordinates](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0816-ambiguous-coordinates) |
+| [0829-consecutive-numbers-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0829-consecutive-numbers-sum) |
 ## Heuristic Search
 |  |
 | ------- |
