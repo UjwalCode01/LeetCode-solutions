@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0824-goat-latin) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0830-positions-of-large-groups) |
+| [0831-masking-personal-information](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0831-masking-personal-information) |
 ## Backtracking
 |  |
 | ------- |
