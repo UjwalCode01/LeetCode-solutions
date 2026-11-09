@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0814-binary-tree-pruning) |
+| [0827-making-a-large-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0815-bus-routes) |
+| [0827-making-a-large-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0827-making-a-large-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [0827-making-a-large-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0827-making-a-large-island) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-valid-tic-tac-toe-state](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0794-valid-tic-tac-toe-state) |
 | [0803-bricks-falling-when-hit](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0827-making-a-large-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0827-making-a-large-island) |
 ## Queue
 |  |
 | ------- |
@@ -922,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0803-bricks-falling-when-hit](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0803-bricks-falling-when-hit) |
+| [0827-making-a-large-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
 | ------- |
