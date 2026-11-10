@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 | [0833-find-and-replace-in-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0833-find-and-replace-in-string) |
+| [0835-image-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0835-image-overlap) |
 ## Queue
 |  |
 | ------- |
