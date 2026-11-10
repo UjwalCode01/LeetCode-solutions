@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
 | [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0829-consecutive-numbers-sum) |
+| [0836-rectangle-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0593-valid-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0593-valid-square) |
+| [0836-rectangle-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 ## Sorting
 |  |
 | ------- |
