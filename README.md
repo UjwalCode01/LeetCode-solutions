@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0837-new-21-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0837-new-21-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
+| [0837-new-21-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0837-new-21-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0834-sum-of-distances-in-tree) |
+| [0837-new-21-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0837-new-21-game) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1178,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0808-soup-servings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0837-new-21-game) |
 ## Rolling Hash
 |  |
 | ------- |
