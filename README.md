@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
+| [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0835-image-overlap) |
+| [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
 ## Queue
 |  |
 | ------- |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0837-new-21-game) |
+| [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0833-find-and-replace-in-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
+| [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
 ## Reservoir Sampling
 |  |
 | ------- |
