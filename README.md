@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0845-longest-mountain-in-array) |
+| [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0833-find-and-replace-in-string) |
+| [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
