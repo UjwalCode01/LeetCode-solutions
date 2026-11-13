@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0849-maximize-distance-to-closest-person) |
+| [0850-rectangle-area-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0850-rectangle-area-ii) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0731-my-calendar-ii) |
+| [0850-rectangle-area-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0850-rectangle-area-ii) |
 ## Randomized
 |  |
 | ------- |
@@ -1077,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0731-my-calendar-ii) |
+| [0850-rectangle-area-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0850-rectangle-area-ii) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Longest Increasing Subsequence
 |  |
@@ -1279,4 +1282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0818-race-car](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0818-race-car) |
+## Sweep Line
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0850-rectangle-area-ii) |
 <!---LeetCode Topics End-->
