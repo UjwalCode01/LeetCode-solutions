@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0838-push-dominoes) |
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0844-backspace-string-compare](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0640-solve-the-equation) |
 | [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0832-flipping-an-image](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0844-backspace-string-compare](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Greedy
 |  |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 | [0838-push-dominoes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0838-push-dominoes) |
+| [0844-backspace-string-compare](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
