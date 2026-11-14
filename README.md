@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0851-loud-and-rich) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0850-rectangle-area-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0850-rectangle-area-ii) |
+| [0851-loud-and-rich](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0851-loud-and-rich) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0851-loud-and-rich](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0851-loud-and-rich) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1142,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0851-loud-and-rich) |
 ## Quicksort
 |  |
 | ------- |
@@ -1252,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0851-loud-and-rich](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0851-loud-and-rich) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
