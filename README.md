@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0855-exam-room](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0855-exam-room) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0731-my-calendar-ii) |
 | [0850-rectangle-area-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0850-rectangle-area-ii) |
+| [0855-exam-room](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0855-exam-room) |
 ## Randomized
 |  |
 | ------- |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0731-my-calendar-ii) |
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
+| [0855-exam-room](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0855-exam-room) |
 ## Bitmask
 |  |
 | ------- |
