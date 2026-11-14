@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0854-k-similar-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0854-k-similar-strings) |
 ## Binary Tree
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-split-array-into-fibonacci-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0844-backspace-string-compare](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0848-shifting-letters) |
+| [0854-k-similar-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0854-k-similar-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
+| [0854-k-similar-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0854-k-similar-strings) |
 ## Reservoir Sampling
 |  |
 | ------- |
