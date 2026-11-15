@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0858-mirror-reflection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0858-mirror-reflection) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0593-valid-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0858-mirror-reflection) |
 ## Sorting
 |  |
 | ------- |
@@ -1139,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0858-mirror-reflection) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -1203,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0780-reaching-points](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0780-reaching-points) |
+| [0858-mirror-reflection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0858-mirror-reflection) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
@@ -1314,4 +1318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
