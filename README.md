@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0855-exam-room](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0855-exam-room) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
