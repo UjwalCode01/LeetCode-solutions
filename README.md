@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
@@ -1077,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
+| [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -1087,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
+| [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 ## Binary Search Tree
 |  |
 | ------- |
