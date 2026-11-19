@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Divide and Conquer
 |  |
