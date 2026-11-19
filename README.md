@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0874-walking-robot-simulation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0749-contain-virus) |
 | [0832-flipping-an-image](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
 ## Stack
 |  |
 | ------- |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [0854-k-similar-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0854-k-similar-strings) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0874-walking-robot-simulation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
 ## Reservoir Sampling
 |  |
 | ------- |
