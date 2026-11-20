@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0879-profitable-schemes) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0879-profitable-schemes) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -658,11 +660,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0518-coin-change-ii) |
+| [0879-profitable-schemes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0879-profitable-schemes) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0879-profitable-schemes) |
 ## Simulation
 |  |
 | ------- |
