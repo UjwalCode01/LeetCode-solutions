@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0879-profitable-schemes) |
+| [0881-boats-to-save-people](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0881-boats-to-save-people](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
@@ -1354,4 +1358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0878-nth-magical-number) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
