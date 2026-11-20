@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0880-decoded-string-at-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0880-decoded-string-at-index) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Greedy
 |  |
