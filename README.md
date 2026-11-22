@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
+| [0883-projection-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0883-projection-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Queue
 |  |
 | ------- |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0878-nth-magical-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sorting
 |  |
 | ------- |
