@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0851-loud-and-rich) |
+| [0886-possible-bipartition](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0886-possible-bipartition) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0854-k-similar-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0854-k-similar-strings) |
+| [0886-possible-bipartition](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0886-possible-bipartition) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1046,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0839-similar-string-groups) |
+| [0886-possible-bipartition](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0886-possible-bipartition) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1061,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0851-loud-and-rich) |
+| [0886-possible-bipartition](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0886-possible-bipartition) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1372,4 +1376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
