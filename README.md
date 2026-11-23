@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0834-sum-of-distances-in-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0834-sum-of-distances-in-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0814-binary-tree-pruning) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Reservoir Sampling
 |  |
 | ------- |
