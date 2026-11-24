@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0891-sum-of-subsequence-widths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0878-nth-magical-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0887-super-egg-drop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0887-super-egg-drop) |
+| [0891-sum-of-subsequence-widths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0888-fair-candy-swap) |
+| [0891-sum-of-subsequence-widths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
