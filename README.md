@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0834-sum-of-distances-in-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Array
 |  |
 | ------- |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0887-super-egg-drop) |
+| [0894-all-possible-full-binary-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -966,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0894-all-possible-full-binary-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Memoization
 |  |
 | ------- |
@@ -976,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0546-remove-boxes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0894-all-possible-full-binary-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Geometry
 |  |
 | ------- |
