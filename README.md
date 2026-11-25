@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0896-monotonic-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0896-monotonic-array) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
