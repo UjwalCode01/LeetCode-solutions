@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-monotonic-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0896-monotonic-array) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0887-super-egg-drop) |
 | [0894-all-possible-full-binary-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0894-all-possible-full-binary-trees) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0832-flipping-an-image](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Hash Table
 |  |
 | ------- |
