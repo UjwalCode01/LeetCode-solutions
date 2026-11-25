@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0894-all-possible-full-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0886-possible-bipartition) |
+| [0897-increasing-order-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0894-all-possible-full-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0880-decoded-string-at-index) |
 | [0895-maximum-frequency-stack](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [0897-increasing-order-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Greedy
 |  |
@@ -1161,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
