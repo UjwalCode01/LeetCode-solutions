@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-monotonic-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
 ## Database
 |  |
 | ------- |
@@ -1217,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0855-exam-room](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0855-exam-room) |
 | [0895-maximum-frequency-stack](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
 ## Bitmask
 |  |
 | ------- |
@@ -1432,4 +1435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0899-orderly-queue) |
+## Iterator
+|  |
+| ------- |
+| [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
 <!---LeetCode Topics End-->
