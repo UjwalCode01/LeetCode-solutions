@@ -749,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0880-decoded-string-at-index) |
 | [0895-maximum-frequency-stack](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0901-online-stock-span) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Greedy
 |  |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0853-car-fleet](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0901-online-stock-span) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Bit Manipulation
 |  |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-exam-room](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0855-exam-room) |
 | [0895-maximum-frequency-stack](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
+| [0901-online-stock-span](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0901-online-stock-span) |
 ## Bitmask
 |  |
 | ------- |
@@ -1283,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0901-online-stock-span) |
 ## Bézout's Lemma
 |  |
 | ------- |
