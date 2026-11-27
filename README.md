@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
+| [0904-fruit-into-baskets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-new-21-game](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0837-new-21-game) |
+| [0904-fruit-into-baskets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0895-maximum-frequency-stack](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [0904-fruit-into-baskets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Reservoir Sampling
 |  |
 | ------- |
