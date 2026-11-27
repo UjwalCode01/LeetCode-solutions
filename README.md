@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0899-orderly-queue) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0887-super-egg-drop) |
 | [0894-all-possible-full-binary-trees](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0813-largest-sum-of-averages](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0848-shifting-letters) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Ordered Set
 |  |
 | ------- |
