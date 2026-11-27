@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0899-orderly-queue) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0906-super-palindromes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0906-super-palindromes) |
 ## Backtracking
 |  |
 | ------- |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0899-orderly-queue) |
+| [0906-super-palindromes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0906-super-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1407,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0816-ambiguous-coordinates) |
 | [0829-consecutive-numbers-sum](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0845-longest-mountain-in-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0845-longest-mountain-in-array) |
+| [0906-super-palindromes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0906-super-palindromes) |
 ## Heuristic Search
 |  |
 | ------- |
