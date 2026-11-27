@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
 | [0904-fruit-into-baskets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0899-orderly-queue) |
+| [0905-sort-array-by-parity](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
