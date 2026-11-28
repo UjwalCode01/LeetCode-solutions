@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0909-snakes-and-ladders](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0911-online-election](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0911-online-election) |
+| [0912-sort-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0855-exam-room](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0855-exam-room) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0912-sort-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0761-special-binary-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting
 |  |
@@ -1353,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0912-sort-an-array) |
 ## Treap
 |  |
 | ------- |
@@ -1389,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0912-sort-an-array) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1462,4 +1468,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
