@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0909-snakes-and-ladders](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0909-snakes-and-ladders) |
+| [0911-online-election](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0911-online-election) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0887-super-egg-drop) |
 | [0888-fair-candy-swap](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0888-fair-candy-swap) |
+| [0911-online-election](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0911-online-election) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## Divide and Conquer
 |  |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0895-maximum-frequency-stack](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0911-online-election](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0911-online-election) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1237,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
 | [0901-online-stock-span](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0901-online-stock-span) |
+| [0911-online-election](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0911-online-election) |
 ## Bitmask
 |  |
 | ------- |
