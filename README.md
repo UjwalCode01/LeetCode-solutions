@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0854-k-similar-strings](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0854-k-similar-strings) |
 | [0886-possible-bipartition](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0886-possible-bipartition) |
+| [0909-snakes-and-ladders](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-rle-iterator](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0900-rle-iterator) |
 | [0904-fruit-into-baskets](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0909-snakes-and-ladders](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0909-snakes-and-ladders) |
 | [2736-maximum-sum-queries](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/2736-maximum-sum-queries) |
 ## String
 |  |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0892-surface-area-of-3d-shapes](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [0909-snakes-and-ladders](https://github.com/UjwalCode01/LeetCode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Queue
 |  |
 | ------- |
